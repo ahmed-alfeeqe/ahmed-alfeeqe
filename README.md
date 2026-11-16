@@ -14,11 +14,11 @@
 
 ## 👨‍💻 About Me
 
-- 📍 Based in **Cairo, Egypt**.
-- 🎯 Passionate **Data Analyst** focused on solving business challenges using data-driven insights.
-- 📐 Strong foundation in **Data Modeling (Star Schema), Advanced DAX, Power Query (ETL), and Interactive Dashboard Design**.
-- 🔍 Experienced in querying relational databases with **SQL** and conducting exploratory data analysis with **Python & Excel**.
-- 💡 Committed to clear data storytelling that empowers stakeholders to make confident operational decisions.
+-  Based in **Cairo, Egypt**.
+-  Passionate **Data Analyst** focused on solving business challenges using data-driven insights.
+-  Strong foundation in **Data Modeling (Star Schema), Advanced DAX, Power Query (ETL), and Interactive Dashboard Design**.
+-  Experienced in querying relational databases with **SQL** and conducting exploratory data analysis with **Python & Excel**.
+-  Committed to clear data storytelling that empowers stakeholders to make confident operational decisions.
 
 ---
 
